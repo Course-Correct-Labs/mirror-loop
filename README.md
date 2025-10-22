@@ -43,9 +43,9 @@ The demo aggregates across providers/models to produce pooled informational-chan
 
 ## Notes
 
-- The submitted manuscript is **not included** in this repository.  
-- Preprint will be linked once live: **arXiv: TO-BE-ADDED**  
-- When the preprint is public, a DOI and release tag will be added.
+- The manuscript is **not included** in this repository.  
+- **Preprint:** *arXiv: TO-BE-ADDED* (link will be added once live).  
+- A DOI and tagged release will follow after public posting.
 
 ---
 
@@ -67,8 +67,8 @@ If `mirror_loop_results_all.csv` is missing, the demo automatically uses synthet
 
 ## Citation and Release
 
-Preprint: **arXiv: TO-BE-ADDED**  
-Release: **v0.2.0-mirror-loop**
+**Preprint:** *arXiv: TO-BE-ADDED*  
+**Release:** *v0.2.0-mirror-loop*
 
 If you reference this work, please cite:
 
